@@ -1,0 +1,2 @@
+student = [{"name": "Richard Adino","age": 16, "dob": "2010-02-25", "location": "Siaya", "Admission": "ADMN1001",}, {"name": "Jack Maina","age": 14, "dob": "2012-05-16", "location": "Kiambu", "Admission": "ADMN1002",}, {"name": "Kadzo Kitsao","age": 18, "dob": "2008-06-14", "location": "Mombasa", "Admission": "ADMN1003",},]
+print(f"Name: {student['Richard Adino']}, Age: {student['16']}, DOB:" f" {student['2010-02-25']}, Location: {student['Siaya']}, Admission:" f" {student['ADMIN1001']}" )
